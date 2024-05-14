@@ -1,0 +1,22 @@
+
+"Raízes da Cura: Segredos da Floresta através das Ervas Xamânicas"
+CAEX - Cura Através das Ervas Xamânicas
+Comandos Midjourney (solicitação (descrição) da imagem sempre em inglês)
+
+-Criando regras e layout para e-book
+#Definindo as regras de criação do texto no ChatGPT
+Faça um texto para ebook, com foco em ervas medicinais, listando as principais ervas comprovadas cientificamente.
+
+{REGRAS}
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de ervas medicinais comprovadas cientificamente
+>Sempre deixe um título sugestivo por tópico
+
+-Copilot (Usado para geração de Imagem) 
+Solicitei uma criação de um Xamã com dois animais de poder, manipulando as ervas em uma paisagem com cachoeira.
+Solicitei uma criação de um Xamã para cada erva gerada pelo descritivo do e-book
+Solicitei uma criação de uma Floresta para fazer o background da apresentação.
+
+-Criando e-book pelo PowerPoint
+Deposi de contextualizado e com as imagens salvas, fiz uma diagramação e de apresentação das ervas sugeridas além de uma logo marca "CAEX".
