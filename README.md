@@ -9,13 +9,9 @@
 - PowerPoint para gerar capas
 - Copilot para criação das artes
 
-## 📚 Materiais
-
-- [Link do Copilot](https://www.bing.com/search?q=Bing+AI&qs=ds&form=MW00X7&showconv=1)
-
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `PowerPoint` fornecido na parte de `Materiais` para criar um e-book de maneira para criação do PDF.
+Utilize os prompts dentro ChtGPT  e artes através do Copilot. As diagramações pelo `PowerPoint` para criar um e-book de maneira para criação do PDF.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de artes no `copilot`
