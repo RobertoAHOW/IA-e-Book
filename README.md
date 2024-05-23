@@ -42,4 +42,4 @@ Utilize os prompts dentro ChtGPT  e artes através do Copilot. As diagramações
 
 ---
 
-⌨️ com 💜 por [Roberto Costa](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Roberto Costa](https://github.com/RobertoAHOW)
